@@ -1,0 +1,20 @@
+body {
+    background-color: #E6FFFF;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;-->
+}
+
+h1 {
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 3vw;
+}
+
+p {
+    color: black;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
